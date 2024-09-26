@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c27eea4-0d12-4198-b809-399823e7899a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Forecasting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forecast.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainAPI.py" afterDir="false" />
-    </list>
+    <list default="true" id="7c27eea4-0d12-4198-b809-399823e7899a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
