@@ -89,8 +89,8 @@ def customer():
 
     # Hyperparameter tuning using Grid Search
     param_grid = {
-        'n_estimators': [100, 200],
-        'max_depth': [10, 20],
+        'n_estimators': [10, 50],
+        'max_depth': [5, 10],
         'min_samples_split': [2, 5],
         'min_samples_leaf': [1, 2],
         'max_features': ['sqrt', None]
